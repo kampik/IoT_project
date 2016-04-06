@@ -23,4 +23,6 @@ The buzzer is turned OFF as default (general noice in the room while the app is 
 
 In case the light from the LCD is not wanted, it can be switched OFF and ON by the button sensor.
 
+About Arduino Thread library used:    https://github.com/ivanseidel/ArduinoThread
+
 TODO: Connect the application with Android app
